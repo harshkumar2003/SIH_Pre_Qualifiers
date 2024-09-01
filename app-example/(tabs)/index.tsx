@@ -46,7 +46,9 @@ export default function HomeScreen() {
           <ThemedText type="defaultSemiBold">app-example</ThemedText>.
         </ThemedText>
       </ThemedView>
+      
     </ParallaxScrollView>
+    
   );
 }
 
